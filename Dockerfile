@@ -1,4 +1,4 @@
-FROM ubuntu:18.04 
+FROM ubuntu:20.04.3
 LABEL maintainer=sathsara@mydomain.com 
 RUN apt-get update
 CMD ["The Docker Workshop"]
